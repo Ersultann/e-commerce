@@ -1,0 +1,1101 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<!--[if IE 8 ]><html dir="ltr" lang="ru" class="ie8"><![endif]-->
+<!--[if IE 9 ]><html dir="ltr" lang="ru" class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html dir="ltr" lang="ru">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Худи #3, бежевый-белый</title>
+<base href="https://its-wear.ru/" />
+<script src="catalog/view/javascript/jquery/jquery-2.1.1.min.js"></script>
+<script src="catalog/view/javascript/jquery/jquery-ui.min.js"></script>
+<script src="catalog/view/javascript/jquery/owl-carousel/js/owl.carousel.min.js"></script>
+<link href="catalog/view/javascript/jquery/owl-carousel/css/owl.carousel.min.css" rel="stylesheet" />
+<link href="catalog/view/javascript/jquery/owl-carousel/css/owl.theme.green.min.css" rel="stylesheet" />
+<script src="catalog/view/javascript/opentheme/countdown/jquery.plugin.min.js"></script>
+<script src="catalog/view/javascript/opentheme/countdown/jquery.countdown.min.js"></script>
+<script src="catalog/view/javascript/ocmegamenu/menu.js"></script>
+<link href="catalog/view/theme/tt_t904/stylesheet/ocmegamenu/menu.css" rel="stylesheet" />
+<link href="catalog/view/theme/tt_t904/stylesheet/opentheme/css/animate.css" rel="stylesheet" />
+<link href="catalog/view/javascript/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen" />
+<script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js"></script>
+<link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/pe-icon-7-stroke/css/pe-icon-7-stroke.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/pe-icon-7-stroke/css/helper.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/ionicons/css/ionicons.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/bebas_neue/css/bebas_neue.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/agavantgardecyr/css/agavantgardecyr_book.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/stroke-gap-icons/css/stroke-gap-icons.css" rel="stylesheet" type="text/css" />
+<script src="catalog/view/javascript/opentheme/ocslideshow/jquery.nivo.slider.js"></script>
+<link href="catalog/view/theme/tt_t904/stylesheet/opentheme/ocslideshow/ocslideshow.css" rel="stylesheet" />
+
+<link href="https://fonts.googleapis.com/css?family=Oswald:400,600,700|Roboto:300,400,700&display=swap&subset=cyrillic" rel="stylesheet">
+<link href="catalog/view/theme/tt_t904/stylesheet/stylesheet-2.css" rel="stylesheet" />
+<link href="catalog/view/javascript/jquery/magnific/magnific-popup.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="catalog/view/theme/tt_t904/stylesheet/occolorswatches/swatches.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="catalog/view/theme/tt_t904/stylesheet/oczoom/zoom.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="catalog/view/javascript/cloudzoom/css/cloud-zoom.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="catalog/view/theme/default/stylesheet/sdek.css" type="text/css" rel="stylesheet" media="screen" />
+<script src="catalog/view/javascript/jquery/magnific/jquery.magnific-popup.min.js"></script>
+<script src="catalog/view/javascript/jquery/datetimepicker/moment/moment.min.js"></script>
+<script src="catalog/view/javascript/jquery/datetimepicker/moment/moment-with-locales.min.js"></script>
+<script src="catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.js"></script>
+<script src="catalog/view/javascript/occolorswatches/swatches.js"></script>
+<script src="catalog/view/javascript/cloudzoom/cloud-zoom.1.0.2.min.js"></script>
+<script src="catalog/view/javascript/cloudzoom/zoom.js"></script>
+<script src="//api-maps.yandex.ru/2.1/?lang=ru_RU&ns=cdekymap"></script>
+<script src="catalog/view/javascript/sdek.js"></script>
+<script src="catalog/view/javascript/common.js"></script>
+<link href="https://its-wear.ru/hudi1-white-haki" rel="canonical" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="apple-mobile-web-app-title" content="its-wear.ru">
+<meta name="application-name" content="its-wear.ru">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+</head>
+<body class="product-product-64 home4">
+<div class="wrapper">
+<header>
+<div class="header-top"></div>
+<div class="header-inner fix">
+<div class="container">
+<div class="container-inner">
+<div class="logo-container">
+<div id="logo">
+<a href="/"><img src="/image/catalog/its-wear.svg" title="Its Wear" alt="Its wear" class="img-responsive" /></a>
+</div>
+</div>
+<div class="box box-left">
+<style>
+    #oc-menu-4760 .oc-menu-bar {
+        background: #FFFFFF;
+        color: #FFFFFF;
+		padding: 0px 0px 0px 0px;
+		position: relative;
+    }
+    #oc-menu-4760.oc-menu-bar {
+        background: #FFFFFF;
+        color: #FFFFFF;
+    }
+    #oc-menu-4760 .ul-top-items .li-top-item {
+        background: #FFFFFF;
+        color: #434343;
+    }
+    #oc-menu-4760 .ul-top-items .li-top-item .a-top-link {
+        padding: 25px 22px 25px 22px;
+        color: #434343;
+        font-size: 12px;
+        line-height: 24px;
+        text-transform: uppercase;
+        font-weight: 500;
+    }
+    #oc-menu-4760 .ul-top-items .li-top-item:hover, #oc-menu-4760 .ul-top-items .li-top-item.active {
+        background: #FFFFFF;
+        color: #9D4D4A;
+    }
+    #oc-menu-4760 .ul-top-items .li-top-item:hover .a-top-link, #oc-menu-4760 .ul-top-items .li-top-item.active .a-top-link{
+        color: #9D4D4A;
+        font-weight: 500;
+    }
+    #oc-menu-4760 .mega-menu-container {
+        width: 1170px;
+        background: #242323;
+        padding: 40px 50px 43px 50px;
+        
+    }
+    #oc-menu-4760 .mega-menu-container .a-mega-second-link,#oc-menu-4760 .mega-menu-container .widget-html-title {
+        color: #FFFFFF;
+    }
+	#oc-menu-4760 .mega-menu-container .a-mega-third-link {
+        color: #FFFFFF;
+    }
+    #oc-menu-4760 .ul-second-items .li-second-items {
+        background: #242323;
+        color: #FFFFFF;
+    }
+    #oc-menu-4760 .ul-second-items .li-second-items:hover, #oc-menu-4760 .ul-second-items .li-second-items.active {
+        background: #242323;
+        color: #9D4D4A;
+    }
+    #oc-menu-4760 .ul-second-items .li-second-items .a-second-link {
+        color: #FFFFFF;
+        font-size: 13px;
+        text-transform: uppercase;
+        font-weight: 500;
+    }
+    #oc-menu-4760 .ul-second-items .li-second-items:hover .a-second-link, #oc-menu-4760 .ul-second-items .li-second-items.active .a-second-link {
+        color: #9D4D4A;
+        font-weight: 500;
+    }
+    #oc-menu-4760 .ul-third-items .li-third-items {
+        background: #242323;
+    }
+    #oc-menu-4760 .ul-third-items .li-third-items:hover, #oc-menu-4760 .ul-third-items .li-third-items.active {
+        background: #242323;
+    }
+    #oc-menu-4760 .ul-third-items .li-third-items .a-third-link {
+        color: #FFFFFF;
+        font-size: 12px;
+        text-transform: capitalize;
+        font-weight: 400;
+    }
+    #oc-menu-4760 .ul-third-items .li-third-items:hover .a-third-link, #oc-menu-4760 .ul-third-items .li-third-items.active .a-third-link {
+        color: #9D4D4A;
+        font-weight: 400;
+    }
+</style>
+<div class="oc-menu horizontal-menu oc-menu-bar visible-lg" id="oc-menu-4760">
+<input type="hidden" id="menu-effect-4760" class="menu-effect" value="none" />
+<ul class="ul-top-items">
+<li class="li-top-item left" style="float: left">
+<a class="a-top-link" href="/">
+<span>Главная</span>
+</a>
+</li>
+<li class="li-top-item left" style="float: left">
+<a class="a-top-link" href="/hudi">
+<span>Худи</span>
+</a>
+</li>
+<li class="li-top-item left" style="float: left">
+<a class="a-top-link" href="/futbolki">
+<span>Футболки</span>
+</a>
+</li>
+<li class="li-top-item left" style="float: left">
+<a class="a-top-link" href="/delivery">
+<span>Доставка и оплата</span>
+</a>
+</li>
+<li class="li-top-item left" style="float: left">
+<a class="a-top-link" href="/index.php?route=information/contact">
+<span>Контакты</span>
+</a>
+</li>
+</ul>
+</div>
+<style>
+    #oc-menu-3073 .oc-menu-bar {
+        background: #FFFFFF;
+        color: #303030;
+		padding: 0px 0px 0px 0px;
+		position: relative;
+    }
+    #oc-menu-3073.oc-menu-bar {
+        background: #FFFFFF;
+        color: #303030;
+    }
+    #oc-menu-3073 .ul-top-items .li-top-item {
+        background: #242323;
+        color: #FFFFFF;
+    }
+    #oc-menu-3073 .ul-top-items .li-top-item .a-top-link {
+        padding: 10px 20px 10px 20px;
+        color: #FFFFFF;
+        font-size: 12px;
+        line-height: 25px;
+        text-transform: uppercase;
+        font-weight: 400;
+    }
+    #oc-menu-3073 .ul-top-items .li-top-item:hover, #oc-menu-3073 .ul-top-items .li-top-item.active {
+        background: #242323;
+        color: #9D4D4A;
+    }
+    #oc-menu-3073 .ul-top-items .li-top-item:hover .a-top-link, #oc-menu-3073 .ul-top-items .li-top-item.active .a-top-link{
+        color: #9D4D4A;
+        font-weight: 400;
+    }
+    #oc-menu-3073 .mega-menu-container {
+        width: 100%;
+        background: #FFFFFF;
+        padding: 0px 0px 0px 0px;
+        
+    }
+    #oc-menu-3073 .mega-menu-container .a-mega-second-link,#oc-menu-3073 .mega-menu-container .widget-html-title {
+        color: #FFFFFF;
+    }
+	#oc-menu-3073 .mega-menu-container .a-mega-third-link {
+        color: #FFFFFF;
+    }
+    #oc-menu-3073 .ul-second-items .li-second-items {
+        background: #242323;
+        color: #BABABA;
+    }
+    #oc-menu-3073 .ul-second-items .li-second-items:hover, #oc-menu-3073 .ul-second-items .li-second-items.active {
+        background: #242323;
+        color: #9D4D4A;
+    }
+    #oc-menu-3073 .ul-second-items .li-second-items .a-second-link {
+        color: #BABABA;
+        font-size: 13px;
+        text-transform: capitalize;
+        font-weight: 400;
+    }
+    #oc-menu-3073 .ul-second-items .li-second-items:hover .a-second-link, #oc-menu-3073 .ul-second-items .li-second-items.active .a-second-link {
+        color: #9D4D4A;
+        font-weight: 400;
+    }
+    #oc-menu-3073 .ul-third-items .li-third-items {
+        background: #242323;
+    }
+    #oc-menu-3073 .ul-third-items .li-third-items:hover, #oc-menu-3073 .ul-third-items .li-third-items.active {
+        background: #242323;
+    }
+    #oc-menu-3073 .ul-third-items .li-third-items .a-third-link {
+        color: #BABABA;
+        font-size: 12px;
+        text-transform: capitalize;
+        font-weight: 400;
+    }
+    #oc-menu-3073 .ul-third-items .li-third-items:hover .a-third-link, #oc-menu-3073 .ul-third-items .li-third-items.active .a-third-link {
+        color: #9D4D4A;
+        font-weight: 400;
+    }
+</style>
+<div class="oc-menu mobile-menu hidden-lg " id="oc-menu-3073">
+<input type="hidden" id="menu-effect-3073" class="menu-effect" value="none" />
+<div class="oc-menu-bar">
+<div class="left"><i class="fa fa-bars"></i> <span>Mobile Menu</span></div>
+<div class="right"><i class="icon-menu" aria-hidden="true"></i></div>
+</div>
+<ul class="ul-top-items">
+<li class="li-top-item">
+<a class="a-top-link a-item" href="/">
+<span>Главная</span>
+</a>
+</li>
+<li class="li-top-item">
+<a class="a-top-link a-item" href="/hudi">
+<span>Худи</span>
+</a>
+</li>
+<li class="li-top-item">
+<a class="a-top-link a-item" href="/futbolki">
+ <span>Футболки</span>
+</a>
+</li>
+<li class="li-top-item">
+<a class="a-top-link a-item" href="/delivery">
+<span>Доставка и оплата</span>
+</a>
+</li>
+<li class="li-top-item">
+<a class="a-top-link a-item" href="/index.php?route=information/contact">
+<span>Контакты</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="box box-right">
+<div id="search" class="input-group">
+<div class="btn-group">
+<div class="dropdown-toggle search-button" data-toggle="dropdown"></div>
+<div class="dropdown-menu search-content">
+<button class="button-close"><i class="icon-close"></i></button>
+<div class="container">
+<div class="inner">
+<input type="text" name="search" value="" placeholder="Поиск" class="form-control input-lg" />
+<span class="input-group-btn">
+<button type="button" class="btn btn-default btn-lg"></button>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="box-setting">
+<div class="btn-group">
+<div class="dropdown-toggle setting-button" data-toggle="dropdown"></div>
+<div class="dropdown-menu setting-content">
+<div class="account">
+<button class="btn btn-link btn-link-current">Личный кабинет <i class="icon-arrow-down"></i></button>
+<div class="content" id="top-links">
+<ul class="ul-account list-unstyled">
+<li>
+<a href="/index.php?route=account/simpleregister">Регистрация</a>
+</li>
+<li>
+<a href="/index.php?route=account/login">Авторизация</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="currency"> </div>
+</div>
+</div>
+</div>
+<div id="cart" class="btn-group btn-block">
+<button type="button" data-toggle="dropdown" data-loading-text="Загрузка..." class="btn dropdown-toggle"><span id="cart-total"><span class="txt_number">0</span><span class="txt_items">Корзина</span><span class="total-price"></span></span></button>
+<ul class="dropdown-menu pull-right">
+<li>
+<p class="text-center cart-empty">Ваша корзина пуста!</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</header>
+<div id="product-product" class="container">
+<ul class="breadcrumb">
+<li><a href="https://its-wear.ru"><i class="fa fa-home"></i></a></li>
+<li><a href="https://its-wear.ru/hudi">Худи</a></li>
+<li><a href="https://its-wear.ru/hudi/hudi1-beige">Худи #3, бежевый-белый</a></li>
+</ul>
+<div class="row">
+<div id="content" class="col-sm-12">
+<div class="row"> <div class="col-sm-5">
+<input type="hidden" id="check-use-zoom" value="1" />
+<input type="hidden" id="light-box-position" value="1" />
+<input type="hidden" id="product-identify" value="64" />
+<div class="lightbox-container"></div>
+<div class="product-zoom-image">
+<a href="https://its-wear.ru/image/cache/catalog/hudi/hudi1/A9_009311-800x1200.jpg" class="cloud-zoom main-image" id="product-cloud-zoom" style="width: 600px; height: 900px;" rel="                                             showTitle: false ,
+                                            zoomWidth:600,zoomHeight:900,
+                                             position:'inside', adjustX: 0 ">
+<img src="https://its-wear.ru/image/cache/catalog/hudi/hudi1/A9_009311-600x900.jpg" title="Худи #3, бежевый-белый" alt="Худи #3, бежевый-белый" />
+</a>
+</div>
+<div class="additional-images owl-carousel owl-theme">
+
+
+
+
+
+
+
+
+<div class="item">
+<a class="cloud-zoom-gallery sub-image" id="product-image-options-" href="https://its-wear.ru/image/cache/catalog/hudi/hudi1/A9_009311-800x1200.jpg" title="Худи #3, бежевый-белый" rel="useZoom: 'product-cloud-zoom', smallImage: 'https://its-wear.ru/image/cache/catalog/hudi/hudi1/A9_009311-600x900.jpg'" data-pos="1">
+<img src="https://its-wear.ru/image/cache/catalog/hudi/hudi1/A9_009311-600x900.jpg" title="Худи #3, бежевый-белый" alt="Худи #3, бежевый-белый" />
+</a>
+</div>
+<div class="item">
+<a class="cloud-zoom-gallery sub-image" id="product-image-options-" href="https://its-wear.ru/image/cache/catalog/hudi/hudi1/A9_00961-800x1200.jpg" title="Худи #3, бежевый-белый" rel="useZoom: 'product-cloud-zoom', smallImage: 'https://its-wear.ru/image/cache/catalog/hudi/hudi1/A9_00961-600x900.jpg'" data-pos="2">
+<img src="https://its-wear.ru/image/cache/catalog/hudi/hudi1/A9_00961-600x900.jpg" title="Худи #3, бежевый-белый" alt="Худи #3, бежевый-белый" />
+ </a>
+</div>
+<div class="item">
+<a class="cloud-zoom-gallery sub-image" id="product-image-options-" href="https://its-wear.ru/image/cache/catalog/hudi/hudi1/A9_00954-800x1200.jpg" title="Худи #3, бежевый-белый" rel="useZoom: 'product-cloud-zoom', smallImage: 'https://its-wear.ru/image/cache/catalog/hudi/hudi1/A9_00954-600x900.jpg'" data-pos="3">
+<img src="https://its-wear.ru/image/cache/catalog/hudi/hudi1/A9_00954-600x900.jpg" title="Худи #3, бежевый-белый" alt="Худи #3, бежевый-белый" />
+</a>
+</div>
+<div class="item">
+<a class="cloud-zoom-gallery sub-image" id="product-image-options-" href="https://its-wear.ru/image/cache/catalog/hudi/hudi1/A9_00935-800x1200.jpg" title="Худи #3, бежевый-белый" rel="useZoom: 'product-cloud-zoom', smallImage: 'https://its-wear.ru/image/cache/catalog/hudi/hudi1/A9_00935-600x900.jpg'" data-pos="4">
+<img src="https://its-wear.ru/image/cache/catalog/hudi/hudi1/A9_00935-600x900.jpg" title="Худи #3, бежевый-белый" alt="Худи #3, бежевый-белый" />
+</a>
+</div>
+</div>
+</div>
+<div class="col-sm-7 product-info-main">
+<h1 class="product-name">Худи #3, бежевый-белый</h1>
+<div class="price-box box-regular">
+<span class="regular-price">
+<span class="price">2790 ₽</span>
+</span>
+</div>
+<ul class="list-unstyled">
+<li>Артикул: 001-03</li>
+<li>Наличие: В наличии</li>
+</ul>
+
+<div class="detail_option">
+<div class="detail_option__heading">Варианты цветов</div>
+<ul class="list-inline detail_option__list">
+<li class="list-inline-item detail_option__li  active">
+<a style="background: url(https://its-wear.ru/image/cache/catalog/hudi/hudi1/A9_009311-80x120.jpg) center / contain no-repeat; " class="detail_option__link" title="Бежевый"></a>
+</li>
+<li class="list-inline-item detail_option__li ">
+<a href="https://its-wear.ru/hudi1-black-haki" style="background: url(https://its-wear.ru/image/cache/catalog/hudi/hudi1/A9_00964-80x120.jpg) center / contain no-repeat;" class="detail_option__link" title="Черный хаки"></a>
+</li>
+<li class="list-inline-item detail_option__li ">
+<a href="https://its-wear.ru/hudi1-white-haki" style="background: url(https://its-wear.ru/image/cache/catalog/hudi/hudi1/8-80x120.jpg) center / contain no-repeat;" class="detail_option__link" title="Белый хаки"></a>
+</li>
+</ul>
+</div>
+
+<div id="product">
+ <div class="form-group required ">
+<label class="control-label">Размер</label>
+<ul class="ul-swatches-colors" data-product-option="280" data-type="radio">
+<li class="swatches-options">
+<a href="javascript:void(0);" onclick="swatches.changeOption($(this));" title="XXS-42 " style="" data-product-option-value-id="339"> XXS-42 </a>
+</li>
+<li class="swatches-options">
+<a href="javascript:void(0);" onclick="swatches.changeOption($(this));" title="XS-44 " style="" data-product-option-value-id="340"> XS-44 </a>
+</li>
+<li class="swatches-options">
+<a href="javascript:void(0);" onclick="swatches.changeOption($(this));" title="S-46 " style="" data-product-option-value-id="341"> S-46 </a>
+</li>
+<li class="swatches-options">
+<a href="javascript:void(0);" onclick="swatches.changeOption($(this));" title="M-48 " style="" data-product-option-value-id="342"> M-48 </a>
+</li>
+<li class="swatches-options">
+<a href="javascript:void(0);" onclick="swatches.changeOption($(this));" title="L-50 " style="" data-product-option-value-id="343"> L-50 </a>
+</li>
+<li class="swatches-info"></li>
+</ul>
+<div class="option-swatches" id="input-option280"> <div class="radio">
+<label>
+<input type="radio" class="radio-option-value" id="radio-option-value-339" name="option[280]" value="339" />
+XXS-42
+</label>
+</div>
+ <div class="radio">
+<label>
+<input type="radio" class="radio-option-value" id="radio-option-value-340" name="option[280]" value="340" />
+XS-44
+</label>
+</div>
+<div class="radio">
+<label>
+<input type="radio" class="radio-option-value" id="radio-option-value-341" name="option[280]" value="341" />
+S-46
+</label>
+</div>
+<div class="radio">
+<label>
+<input type="radio" class="radio-option-value" id="radio-option-value-342" name="option[280]" value="342" />
+M-48
+</label>
+</div>
+<div class="radio">
+<label>
+<input type="radio" class="radio-option-value" id="radio-option-value-343" name="option[280]" value="343" />
+L-50
+</label>
+</div>
+</div>
+</div>
+<div class="form-group">
+<input type="hidden" name="product_id" value="64" />
+<div class="qty-block">
+<span id="qty-plus" title="Прибавить">+</span>
+<input type="text" name="quantity" title="Количество" value="1" size="2" id="input-quantity" class="form-control" />
+<span id="qty-minus" title="Убавить">-</span>
+</div>
+<button type="button" id="button-cart" data-loading-text="Загрузка..." class="btn button button-cart" title="Купить" disabled>Купить</button>
+</div>
+<div class="alert alert-danger">В связи с карантином COVID-19, продажи временно приостановлены.<br>По поводу ваших заказов обращайтесь <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e58c8b838aa58c9196c892808497cb9790">[email&#160;protected]</a></div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script src="https://yastatic.net/share2/share.js"></script>
+<div class="ya-share2" data-services="vkontakte,facebook,twitter,odnoklassniki,viber,whatsapp,telegram" data-limit="3"></div>
+<div class="product-info-detailed">
+<ul class="nav nav-tabs">
+<li class="active"><a href="#tab-description" data-toggle="tab">Описание</a></li>
+<li><a href="#tab-sizes" data-toggle="tab">Таблица размеров</a></li>
+</ul>
+<div class="tab-content">
+<div class="tab-pane active" id="tab-description"><p>Состав: 80% хлопок, 20% полиэстер</p><p>Плотность: 320гр\м2. </p><p>Толстовка из трикотажа (футер 3-х ниточный, с начесом, пряжа 30\70\10, качество Пенье)<br></p></div>
+<div class="tab-pane" id="tab-sizes">
+<table style="border-collapse: collapse; border-style: none;" bordercolor="#141615" cellspacing="0" cellpadding="0" border="1">
+<tbody>
+<tr>
+<th>Размер</th>
+<th>Рост</th>
+<th>Грудь</th>
+<th>Талия</th>
+</tr>
+<tr>
+<td class="td-left-col">XXXS-40</td>
+<td>152-155</td>
+<td>80-82</td>
+<td>67-69</td>
+</tr>
+<tr>
+<td class="td-left-col">XXS-42</td>
+<td>155-161</td>
+<td>82-86</td>
+<td>69-70</td>
+</tr>
+<tr>
+<td class="td-left-col">XS-44</td>
+<td>161-167</td>
+<td>86-90</td>
+<td>70-73</td>
+</tr>
+<tr>
+<td class="td-left-col">S-46</td>
+<td>167-173</td>
+<td>90-94</td>
+<td>73-79</td>
+</tr>
+<tr>
+<td class="td-left-col">M-48</td>
+<td>173-179</td>
+<td>94-98</td>
+<td>79-85</td>
+</tr>
+<tr>
+<td class="td-left-col">L-50</td>
+<td>179-185</td>
+<td>98-102</td>
+<td>85-91</td>
+</tr>
+<tr>
+<td class="td-left-col">XL-52</td>
+<td>179-185</td>
+<td>102-106</td>
+<td>91-97</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="related-products  ">
+<div class="module-title">
+<h2>Посмотрите еще</h2>
+</div>
+<div class="owl-container">
+<div class="related-container tt-product owl-carousel owl-theme">
+<div class="row_items">
+<div class="product-layout grid-style">
+<div class="product-thumb transition">
+<div class="item">
+<div class="item-inner">
+<div class="image images-container">
+<a href="https://its-wear.ru/hudi3-white" class="product-image">
+<img class="img-r" src="https://its-wear.ru/image/cache/catalog/hudi/hudi3/webA9_00552-600x900.jpg" alt="Худи #9, белый" /> <img src="https://its-wear.ru/image/cache/catalog/hudi/hudi3/webA9_00563-600x900.jpg" alt="Худи #9, белый" title="Худи #9, белый" class="img-responsive" />
+</a>
+</div>
+<div class="caption">
+<h4 class="product-name"><a href="https://its-wear.ru/hudi3-white">Худи #9, белый</a></h4>
+<div class="price-box">
+<label></label>
+<p class="regular-price"><span class="price">2790 ₽</span></p>
+<p class="price-tax"><span class="price">Без НДС: 2790 ₽</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row_items">
+<div class="product-layout grid-style">
+<div class="product-thumb transition">
+<div class="item">
+<div class="item-inner">
+<div class="image images-container">
+<a href="https://its-wear.ru/futbolki2-beige-white" class="product-image">
+<img class="img-r" src="https://its-wear.ru/image/cache/catalog/hudi/hudi2/A9_00298-1-600x900.jpg" alt="Худи #8, бежевый-белый" /> <img src="https://its-wear.ru/image/cache/catalog/hudi/hudi2/A9_00289-1-600x900.jpg" alt="Худи #8, бежевый-белый" title="Худи #8, бежевый-белый" class="img-responsive" />
+</a>
+</div>
+<div class="caption">
+<h4 class="product-name"><a href="https://its-wear.ru/futbolki2-beige-white">Худи #8, бежевый-белый</a></h4>
+<div class="price-box">
+<label></label>
+<p class="regular-price"><span class="price">2790 ₽</span></p>
+<p class="price-tax"><span class="price">Без НДС: 2790 ₽</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row_items">
+<div class="product-layout grid-style">
+<div class="product-thumb transition">
+<div class="item">
+<div class="item-inner">
+<div class="image images-container">
+<a href="https://its-wear.ru/hudi3-beige" class="product-image">
+<img class="img-r" src="https://its-wear.ru/image/cache/catalog/hudi/hudi3/1-600x900.jpg" alt="Худи #10, бежевый" /> <img src="https://its-wear.ru/image/cache/catalog/hudi/hudi3/2-600x900.jpg" alt="Худи #10, бежевый" title="Худи #10, бежевый" class="img-responsive" />
+</a>
+</div>
+<div class="caption">
+<h4 class="product-name"><a href="https://its-wear.ru/hudi3-beige">Худи #10, бежевый</a></h4>
+<div class="price-box">
+<label></label>
+<p class="regular-price"><span class="price">2790 ₽</span></p>
+<p class="price-tax"><span class="price">Без НДС: 2790 ₽</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row_items">
+<div class="product-layout grid-style">
+<div class="product-thumb transition">
+<div class="item">
+<div class="item-inner">
+<div class="image images-container">
+<a href="https://its-wear.ru/hudi2-black-haki" class="product-image">
+<img class="img-r" src="https://its-wear.ru/image/cache/catalog/hudi/hudi2/A9_00998-600x900.jpg" alt="Худи #5, хаки-чёрный" /> <img src="https://its-wear.ru/image/cache/catalog/hudi/hudi2/A9_00990-1с-600x900.jpg" alt="Худи #5, хаки-чёрный" title="Худи #5, хаки-чёрный" class="img-responsive" />
+</a>
+</div>
+<div class="caption">
+<h4 class="product-name"><a href="https://its-wear.ru/hudi2-black-haki">Худи #5, хаки-чёрный</a></h4>
+<div class="price-box">
+<label></label>
+<p class="regular-price"><span class="price">2790 ₽</span></p>
+<p class="price-tax"><span class="price">Без НДС: 2790 ₽</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row_items">
+<div class="product-layout grid-style">
+<div class="product-thumb transition">
+<div class="item">
+<div class="item-inner">
+<div class="image images-container">
+<a href="https://its-wear.ru/hudi2-white-haki" class="product-image">
+<img class="img-r" src="https://its-wear.ru/image/cache/catalog/hudi/hudi2/A9_00899-1с-600x900.jpg" alt="Худи #4, хаки-белый" /> <img src="https://its-wear.ru/image/cache/catalog/hudi/hudi2/A9_00883-1с-600x900.jpg" alt="Худи #4, хаки-белый" title="Худи #4, хаки-белый" class="img-responsive" />
+</a>
+</div>
+<div class="caption">
+<h4 class="product-name"><a href="https://its-wear.ru/hudi2-white-haki">Худи #4, хаки-белый</a></h4>
+<div class="price-box">
+<label></label>
+<p class="regular-price"><span class="price">2790 ₽</span></p>
+<p class="price-tax"><span class="price">Без НДС: 2790 ₽</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row_items">
+<div class="product-layout grid-style">
+<div class="product-thumb transition">
+<div class="item">
+<div class="item-inner">
+<div class="image images-container">
+<a href="https://its-wear.ru/hudi1-black-haki" class="product-image">
+<img class="img-r" src="https://its-wear.ru/image/cache/catalog/hudi/hudi1/A9_00985-600x900.jpg" alt="Худи #2, чёрный-хаки" /> <img src="https://its-wear.ru/image/cache/catalog/hudi/hudi1/A9_00964-600x900.jpg" alt="Худи #2, чёрный-хаки" title="Худи #2, чёрный-хаки" class="img-responsive" />
+</a>
+</div>
+<div class="caption">
+<h4 class="product-name"><a href="https://its-wear.ru/hudi1-black-haki">Худи #2, чёрный-хаки</a></h4>
+<div class="price-box">
+<label></label>
+<p class="regular-price"><span class="price">2790 ₽</span></p>
+<p class="price-tax"><span class="price">Без НДС: 2790 ₽</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+ <div class="row_items">
+<div class="product-layout grid-style">
+<div class="product-thumb transition">
+<div class="item">
+<div class="item-inner">
+<div class="image images-container">
+<a href="https://its-wear.ru/hudi3-haki" class="product-image">
+<img class="img-r" src="https://its-wear.ru/image/cache/catalog/hudi/hudi3/A9_00921-600x900.jpg" alt="Худи #11, хаки" /> <img src="https://its-wear.ru/image/cache/catalog/hudi/hudi3/A9_00903-600x900.jpg" alt="Худи #11, хаки" title="Худи #11, хаки" class="img-responsive" />
+</a>
+</div>
+<div class="caption">
+<h4 class="product-name"><a href="https://its-wear.ru/hudi3-haki">Худи #11, хаки</a></h4>
+<div class="price-box">
+<label></label>
+<p class="regular-price"><span class="price">2790 ₽</span></p>
+<p class="price-tax"><span class="price">Без НДС: 2790 ₽</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row_items">
+<div class="product-layout grid-style">
+<div class="product-thumb transition">
+<div class="item">
+<div class="item-inner">
+<div class="image images-container">
+<a href="https://its-wear.ru/hudi2-beige" class="product-image">
+<img class="img-r" src="https://its-wear.ru/image/cache/catalog/hudi/hudi2/6-600x900.jpg" alt="Худи #7, белый-бежевый" /> <img src="https://its-wear.ru/image/cache/catalog/hudi/hudi2/5-600x900.jpg" alt="Худи #7, белый-бежевый" title="Худи #7, белый-бежевый" class="img-responsive" />
+</a>
+</div>
+<div class="caption">
+<h4 class="product-name"><a href="https://its-wear.ru/hudi2-beige">Худи #7, белый-бежевый</a></h4>
+<div class="price-box">
+<label></label>
+<p class="regular-price"><span class="price">2790 ₽</span></p>
+<p class="price-tax"><span class="price">Без НДС: 2790 ₽</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript"><!--
+    $(document).ready(function() {
+		$('.related-container').owlCarousel({
+			nav: true,
+			dots: true,
+			navSpeed: 1000,
+			margin: 0,
+			responsive:{
+				0:{
+					items: 1,
+					nav: true
+				},
+				480:{
+					items: 2,
+					nav: true
+				},
+				768:{
+					items: 3
+				},
+				992:{
+					items: 4
+				},
+				1200:{
+					items: 4
+				}
+				
+			},
+			onInitialized: function() {
+				owlAction();
+			},
+			onTranslated: function() {
+				owlAction();
+			}	
+		});
+		function owlAction() {
+			$(".related-container .owl-item").removeClass('first');
+			$(".related-container .owl-item").removeClass('last');
+			$(".related-container .owl-item").removeClass('before-active');
+			$(".related-container .owl-item.active:first").addClass('first');
+			$(".related-container .owl-item.active:last").addClass('last');
+			$('.related-container .owl-item.active:first').prev().addClass('before-active');
+		}
+	});
+	
+	
+	
+	$('select[name=\'recurring_id\'], input[name="quantity"]').change(function(){
+        $.ajax({
+            url: 'index.php?route=product/product/getRecurringDescription',
+            type: 'post',
+            data: $('input[name=\'product_id\'], input[name=\'quantity\'], select[name=\'recurring_id\']'),
+            dataType: 'json',
+            beforeSend: function() {
+                $('#recurring-description').html('');
+            },
+            success: function(json) {
+                $('.alert-dismissible, .text-danger').remove();
+
+                if (json['success']) {
+                    $('#recurring-description').html(json['success']);
+                }
+            }
+        });
+    });
+    //--></script>
+<script type="text/javascript"><!--
+    $('#button-cart').on('click', function() {
+        $.ajax({
+            url: 'index.php?route=checkout/cart/add',
+            type: 'post',
+            data: $('#product input[type=\'text\'], #product input[type=\'hidden\'], #product input[type=\'radio\']:checked, #product input[type=\'checkbox\']:checked, #product select, #product textarea'),
+            dataType: 'json',
+            beforeSend: function() {
+                $('#button-cart').button('loading');
+            },
+            complete: function() {
+                $('#button-cart').button('reset');
+            },
+            success: function(json) {
+                $('.alert-dismissible, .text-danger').remove();
+                $('.form-group').removeClass('has-error');
+
+                if (json['error']) {
+                    if (json['error']['option']) {
+                        for (i in json['error']['option']) {
+                            var element = $('#input-option' + i.replace('_', '-'));
+
+                            if (element.parent().hasClass('input-group')) {
+                                element.parent().after('<div class="text-danger">' + json['error']['option'][i] + '</div>');
+                            } else {
+                                element.after('<div class="text-danger">' + json['error']['option'][i] + '</div>');
+                            }
+                        }
+                    }
+
+                    if (json['error']['recurring']) {
+                        $('select[name=\'recurring_id\']').after('<div class="text-danger">' + json['error']['recurring'] + '</div>');
+                    }
+
+                    // Highlight any found errors
+                    $('.text-danger').parent().addClass('has-error');
+                }
+
+                if (json['success']) {
+                    //$('.breadcrumb').after('<div class="alert alert-success alert-dismissible">' + json['success'] + '<button type="button" class="close" data-dismiss="alert">&times;</button></div>');
+
+                    $('#cart > button').html('<span id="cart-total">' + json['total'] + '</span>');
+					
+                    $('html, body').animate({ scrollTop: 0 }, 'slow');
+
+                    $('#cart > ul').load('index.php?route=common/cart/info ul li');
+					$('#cart').addClass("open");
+                }
+            },
+            error: function(xhr, ajaxOptions, thrownError) {
+                alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);
+            }
+        });
+    });
+    //--></script>
+<script type="text/javascript"><!--
+    $('.date').datetimepicker({
+        language: '',
+        pickTime: false
+    });
+
+    $('.datetime').datetimepicker({
+        language: '',
+        pickDate: true,
+        pickTime: true
+    });
+
+    $('.time').datetimepicker({
+        language: '',
+        pickDate: false
+    });
+
+    $('button[id^=\'button-upload\']').on('click', function() {
+        var node = this;
+
+        $('#form-upload').remove();
+
+        $('body').prepend('<form enctype="multipart/form-data" id="form-upload" style="display: none;"><input type="file" name="file" /></form>');
+
+        $('#form-upload input[name=\'file\']').trigger('click');
+
+        if (typeof timer != 'undefined') {
+            clearInterval(timer);
+        }
+
+        timer = setInterval(function() {
+            if ($('#form-upload input[name=\'file\']').val() != '') {
+                clearInterval(timer);
+
+                $.ajax({
+                    url: 'index.php?route=tool/upload',
+                    type: 'post',
+                    dataType: 'json',
+                    data: new FormData($('#form-upload')[0]),
+                    cache: false,
+                    contentType: false,
+                    processData: false,
+                    beforeSend: function() {
+                        $(node).button('loading');
+                    },
+                    complete: function() {
+                        $(node).button('reset');
+                    },
+                    success: function(json) {
+                        $('.text-danger').remove();
+
+                        if (json['error']) {
+                            $(node).parent().find('input').after('<div class="text-danger">' + json['error'] + '</div>');
+                        }
+
+                        if (json['success']) {
+                            alert(json['success']);
+
+                            $(node).parent().find('input').val(json['code']);
+                        }
+                    },
+                    error: function(xhr, ajaxOptions, thrownError) {
+                        alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);
+                    }
+                });
+            }
+        }, 500);
+    });
+    //--></script>
+<script type="text/javascript"><!--
+    $('#review').delegate('.pagination a', 'click', function(e) {
+        e.preventDefault();
+
+        $('#review').fadeOut('slow');
+
+        $('#review').load(this.href);
+
+        $('#review').fadeIn('slow');
+    });
+
+    $('#review').load('index.php?route=product/product/review&product_id=64');
+
+    $('#button-review').on('click', function() {
+        $.ajax({
+            url: 'index.php?route=product/product/write&product_id=64',
+            type: 'post',
+            dataType: 'json',
+            data: $("#form-review").serialize(),
+            beforeSend: function() {
+                $('#button-review').button('loading');
+            },
+            complete: function() {
+                $('#button-review').button('reset');
+            },
+            success: function(json) {
+                $('.alert-dismissible').remove();
+
+                if (json['error']) {
+                    $('#review').after('<div class="alert alert-danger alert-dismissible"><i class="fa fa-exclamation-circle"></i> ' + json['error'] + '</div>');
+                }
+
+                if (json['success']) {
+                    $('#review').after('<div class="alert alert-success alert-dismissible"><i class="fa fa-check-circle"></i> ' + json['success'] + '</div>');
+
+                    $('input[name=\'name\']').val('');
+                    $('textarea[name=\'text\']').val('');
+                    $('input[name=\'rating\']:checked').prop('checked', false);
+                }
+            }
+        });
+    });
+
+        //-->
+ $(document).ready(function() {
+	console.log('start');
+	$('#qty-plus').on('click', function() {
+		var qty = $('#input-quantity').val();
+		if (qty > 0 && qty < 99){
+			qty = parseInt(qty) + 1;
+		} else {
+			qty = 1;
+		}
+		$('#input-quantity').val(qty);
+	});
+	$('#qty-minus').on('click', function() {
+		var qty = $('#input-quantity').val();
+		if (qty > 1 && qty < 100){
+			qty = parseInt(qty) - 1;
+		} else {
+			qty = 1;
+		}
+		$('#input-quantity').val(qty);
+	});
+ });</script>
+<footer>
+<div class="container">
+<div class="footer-top">
+<div class="row">
+<div class="col1 col-md-3 col-sm-6 col-xs-12 col-footer">
+<div class="footer-title"><h5>О нас</h5></div>
+<div class="footer-content">
+<a class="logo-footer" href="/"><img src="/image/catalog/its-wear-white.svg" alt="logo-footer"></a>
+<ul class="footer-contact">
+<li class="address">Юр. адрес: г.Новосибирск, ул.Волочаевская 78а, корп.1, оф.20</li>
+<li class="email">Email: <a href="/cdn-cgi/l/email-protection#771e191118371e03045a00121605590502"><span class="__cf_email__" data-cfemail="fb92959d94bb928f88d68c9e9a89d5898e">[email&#160;protected]</span></a></li>
+</ul>
+</div>
+</div>
+<div class="col2 col-md-3 col-sm-6 col-xs-12 col-footer">
+<div class="footer-title"><h5>Информация</h5></div>
+<div class="footer-content">
+<ul class="list-unstyled text-content">
+<li><a href="/delivery">Оплата и доставка</a></li>
+<li><a href="/privacy-policy">Политика конфиденциальности</a></li>
+<li><a href="/oferta">Публичная оферта</a></li>
+<li><a href="/vozvrat">Условия возврата</a></li>
+<li><a href="/index.php?route=information/contact">Связаться с нами</a></li>
+</ul>
+</div>
+</div>
+<div class="col3 col-md-3 col-sm-6 col-xs-12 col-footer">
+<div class="footer-title"><h5>Каталог</h5></div>
+<div class="footer-content">
+<ul class="list-unstyled text-content">
+<li><a href="/hudi/">Худи</a></li>
+<li><a href="/futbolki/">Футболки</a></li>
+</ul>
+</div>
+</div>
+<div class="col4 col-md-3 col-sm-6 col-xs-12 col-footer">
+<div class="follow">
+<label>Подписывайтесь</label>
+<ul class="link-follow">
+<li class="first"><a class="youtube fa fa-youtube" title="Youtube" href="https://www.youtube.com/channel/UCSF6ewY9LS8GnbphwvnZpUg" target="_blank"><span>YouTube</span></a></li>
+<li><a class="vkontakte fa fa-vkontakte" title="ВКонтакте" href="https://vk.com/its_wear" target="_blank"><span>ВКонтакте</span></a></li>
+<li><a class="instagram fa fa-instagram" title="Instagram" href="https://www.instagram.com/its_wear.ru/" target="_blank"><span>Instagram</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="container-inner">
+<div class="footer-copyright">
+<p>ООО «ИТС М». ОГРН 1195476077851, ИНН 5401996109<br>Разработка сайта - <a href="https://webair-studio.ru/" target="_blank" title="Разработка сайтов">WebAir Studio</a></p>
+</div>
+<div class="payment" title="Принимаем к оплате">
+<img src="/image/payment/visa-pay.svg" class="pay-visa" alt="Visa">
+<img src="/image/payment/mastercard-pay.svg" class="pay-mastercard" alt="Mastercard">
+<img src="/image/payment/mir-pay.svg" class="pay-mir" alt="Мир">
+<img src="/image/payment/tinkoff-pay.svg" class="pay-tinkoff" alt="Tinkoff">
+</div>
+</div>
+</div>
+</div>
+<div id="back-top"><i class="fa fa-angle-double-up"></i></div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+$(document).ready(function(){
+	// hide #back-top first
+	$("#back-top").hide();
+	// fade in #back-top
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > $('body').height()/3) {
+				$('#back-top').fadeIn();
+			} else {
+				$('#back-top').fadeOut();
+			}
+		});
+		// scroll body to 0px on click
+		$('#back-top').click(function () {
+			$('body,html').animate({scrollTop: 0}, 800);
+			return false;
+		});
+	});
+});
+</script>
+ <script type="text/javascript"> (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(57588016, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, ecommerce:"dataLayer" }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/57588016" style="position:absolute; left:-9999px;" alt="" /></div></noscript> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160741337-1"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-160741337-1');</script>
+</div>
+</body></html>

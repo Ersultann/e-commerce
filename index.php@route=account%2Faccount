@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<!--[if IE 8 ]><html dir="ltr" lang="ru" class="ie8"><![endif]-->
+<!--[if IE 9 ]><html dir="ltr" lang="ru" class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html dir="ltr" lang="ru">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Авторизация</title>
+<base href="https://its-wear.ru/" />
+<script src="catalog/view/javascript/jquery/jquery-2.1.1.min.js"></script>
+<script src="catalog/view/javascript/jquery/jquery-ui.min.js"></script>
+<script src="catalog/view/javascript/jquery/owl-carousel/js/owl.carousel.min.js"></script>
+<link href="catalog/view/javascript/jquery/owl-carousel/css/owl.carousel.min.css" rel="stylesheet" />
+<link href="catalog/view/javascript/jquery/owl-carousel/css/owl.theme.green.min.css" rel="stylesheet" />
+<script src="catalog/view/javascript/opentheme/countdown/jquery.plugin.min.js"></script>
+<script src="catalog/view/javascript/opentheme/countdown/jquery.countdown.min.js"></script>
+<script src="catalog/view/javascript/ocmegamenu/menu.js"></script>
+<link href="catalog/view/theme/tt_t904/stylesheet/ocmegamenu/menu.css" rel="stylesheet" />
+<link href="catalog/view/theme/tt_t904/stylesheet/opentheme/css/animate.css" rel="stylesheet" />
+<link href="catalog/view/javascript/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen" />
+<script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js"></script>
+<link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/pe-icon-7-stroke/css/pe-icon-7-stroke.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/pe-icon-7-stroke/css/helper.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/ionicons/css/ionicons.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/bebas_neue/css/bebas_neue.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/agavantgardecyr/css/agavantgardecyr_book.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/stroke-gap-icons/css/stroke-gap-icons.css" rel="stylesheet" type="text/css" />
+<script src="catalog/view/javascript/opentheme/ocslideshow/jquery.nivo.slider.js"></script>
+<link href="catalog/view/theme/tt_t904/stylesheet/opentheme/ocslideshow/ocslideshow.css" rel="stylesheet" />
+
+<link href="https://fonts.googleapis.com/css?family=Oswald:400,600,700|Roboto:300,400,700&display=swap&subset=cyrillic" rel="stylesheet">
+<link href="catalog/view/theme/tt_t904/stylesheet/stylesheet-2.css" rel="stylesheet" />
+<link href="catalog/view/theme/default/stylesheet/sdek.css" type="text/css" rel="stylesheet" media="screen" />
+<script src="//api-maps.yandex.ru/2.1/?lang=ru_RU&ns=cdekymap"></script>
+<script src="catalog/view/javascript/sdek.js"></script>
+<script src="catalog/view/javascript/common.js"></script>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="apple-mobile-web-app-title" content="its-wear.ru">
+<meta name="application-name" content="its-wear.ru">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+</head>
+<body class="account-login home4">
+<div class="wrapper">
+<header>
+<div class="header-top"></div>
+<div class="header-inner fix">
+<div class="container">
+<div class="container-inner">
+<div class="logo-container">
+<div id="logo">
+<a href="/"><img src="/image/catalog/its-wear.svg" title="Its Wear" alt="Its wear" class="img-responsive" /></a>
+</div>
+</div>
+<div class="box box-left">
+<style>
+    #oc-menu-5827 .oc-menu-bar {
+        background: #FFFFFF;
+        color: #FFFFFF;
+		padding: 0px 0px 0px 0px;
+		position: relative;
+    }
+    #oc-menu-5827.oc-menu-bar {
+        background: #FFFFFF;
+        color: #FFFFFF;
+    }
+    #oc-menu-5827 .ul-top-items .li-top-item {
+        background: #FFFFFF;
+        color: #434343;
+    }
+    #oc-menu-5827 .ul-top-items .li-top-item .a-top-link {
+        padding: 25px 22px 25px 22px;
+        color: #434343;
+        font-size: 12px;
+        line-height: 24px;
+        text-transform: uppercase;
+        font-weight: 500;
+    }
+    #oc-menu-5827 .ul-top-items .li-top-item:hover, #oc-menu-5827 .ul-top-items .li-top-item.active {
+        background: #FFFFFF;
+        color: #9D4D4A;
+    }
+    #oc-menu-5827 .ul-top-items .li-top-item:hover .a-top-link, #oc-menu-5827 .ul-top-items .li-top-item.active .a-top-link{
+        color: #9D4D4A;
+        font-weight: 500;
+    }
+    #oc-menu-5827 .mega-menu-container {
+        width: 1170px;
+        background: #242323;
+        padding: 40px 50px 43px 50px;
+        
+    }
+    #oc-menu-5827 .mega-menu-container .a-mega-second-link,#oc-menu-5827 .mega-menu-container .widget-html-title {
+        color: #FFFFFF;
+    }
+	#oc-menu-5827 .mega-menu-container .a-mega-third-link {
+        color: #FFFFFF;
+    }
+    #oc-menu-5827 .ul-second-items .li-second-items {
+        background: #242323;
+        color: #FFFFFF;
+    }
+    #oc-menu-5827 .ul-second-items .li-second-items:hover, #oc-menu-5827 .ul-second-items .li-second-items.active {
+        background: #242323;
+        color: #9D4D4A;
+    }
+    #oc-menu-5827 .ul-second-items .li-second-items .a-second-link {
+        color: #FFFFFF;
+        font-size: 13px;
+        text-transform: uppercase;
+        font-weight: 500;
+    }
+    #oc-menu-5827 .ul-second-items .li-second-items:hover .a-second-link, #oc-menu-5827 .ul-second-items .li-second-items.active .a-second-link {
+        color: #9D4D4A;
+        font-weight: 500;
+    }
+    #oc-menu-5827 .ul-third-items .li-third-items {
+        background: #242323;
+    }
+    #oc-menu-5827 .ul-third-items .li-third-items:hover, #oc-menu-5827 .ul-third-items .li-third-items.active {
+        background: #242323;
+    }
+    #oc-menu-5827 .ul-third-items .li-third-items .a-third-link {
+        color: #FFFFFF;
+        font-size: 12px;
+        text-transform: capitalize;
+        font-weight: 400;
+    }
+    #oc-menu-5827 .ul-third-items .li-third-items:hover .a-third-link, #oc-menu-5827 .ul-third-items .li-third-items.active .a-third-link {
+        color: #9D4D4A;
+        font-weight: 400;
+    }
+</style>
+<div class="oc-menu horizontal-menu oc-menu-bar visible-lg" id="oc-menu-5827">
+<input type="hidden" id="menu-effect-5827" class="menu-effect" value="none" />
+<ul class="ul-top-items">
+<li class="li-top-item left" style="float: left">
+<a class="a-top-link" href="/">
+<span>Главная</span>
+</a>
+</li>
+<li class="li-top-item left" style="float: left">
+<a class="a-top-link" href="/hudi">
+ <span>Худи</span>
+</a>
+</li>
+<li class="li-top-item left" style="float: left">
+<a class="a-top-link" href="/futbolki">
+<span>Футболки</span>
+</a>
+</li>
+<li class="li-top-item left" style="float: left">
+<a class="a-top-link" href="/delivery">
+<span>Доставка и оплата</span>
+</a>
+</li>
+<li class="li-top-item left" style="float: left">
+<a class="a-top-link" href="/index.php?route=information/contact">
+<span>Контакты</span>
+</a>
+</li>
+</ul>
+</div>
+<style>
+    #oc-menu-2741 .oc-menu-bar {
+        background: #FFFFFF;
+        color: #303030;
+		padding: 0px 0px 0px 0px;
+		position: relative;
+    }
+    #oc-menu-2741.oc-menu-bar {
+        background: #FFFFFF;
+        color: #303030;
+    }
+    #oc-menu-2741 .ul-top-items .li-top-item {
+        background: #242323;
+        color: #FFFFFF;
+    }
+    #oc-menu-2741 .ul-top-items .li-top-item .a-top-link {
+        padding: 10px 20px 10px 20px;
+        color: #FFFFFF;
+        font-size: 12px;
+        line-height: 25px;
+        text-transform: uppercase;
+        font-weight: 400;
+    }
+    #oc-menu-2741 .ul-top-items .li-top-item:hover, #oc-menu-2741 .ul-top-items .li-top-item.active {
+        background: #242323;
+        color: #9D4D4A;
+    }
+    #oc-menu-2741 .ul-top-items .li-top-item:hover .a-top-link, #oc-menu-2741 .ul-top-items .li-top-item.active .a-top-link{
+        color: #9D4D4A;
+        font-weight: 400;
+    }
+    #oc-menu-2741 .mega-menu-container {
+        width: 100%;
+        background: #FFFFFF;
+        padding: 0px 0px 0px 0px;
+        
+    }
+    #oc-menu-2741 .mega-menu-container .a-mega-second-link,#oc-menu-2741 .mega-menu-container .widget-html-title {
+        color: #FFFFFF;
+    }
+	#oc-menu-2741 .mega-menu-container .a-mega-third-link {
+        color: #FFFFFF;
+    }
+    #oc-menu-2741 .ul-second-items .li-second-items {
+        background: #242323;
+        color: #BABABA;
+    }
+    #oc-menu-2741 .ul-second-items .li-second-items:hover, #oc-menu-2741 .ul-second-items .li-second-items.active {
+        background: #242323;
+        color: #9D4D4A;
+    }
+    #oc-menu-2741 .ul-second-items .li-second-items .a-second-link {
+        color: #BABABA;
+        font-size: 13px;
+        text-transform: capitalize;
+        font-weight: 400;
+    }
+    #oc-menu-2741 .ul-second-items .li-second-items:hover .a-second-link, #oc-menu-2741 .ul-second-items .li-second-items.active .a-second-link {
+        color: #9D4D4A;
+        font-weight: 400;
+    }
+    #oc-menu-2741 .ul-third-items .li-third-items {
+        background: #242323;
+    }
+    #oc-menu-2741 .ul-third-items .li-third-items:hover, #oc-menu-2741 .ul-third-items .li-third-items.active {
+        background: #242323;
+    }
+    #oc-menu-2741 .ul-third-items .li-third-items .a-third-link {
+        color: #BABABA;
+        font-size: 12px;
+        text-transform: capitalize;
+        font-weight: 400;
+    }
+    #oc-menu-2741 .ul-third-items .li-third-items:hover .a-third-link, #oc-menu-2741 .ul-third-items .li-third-items.active .a-third-link {
+        color: #9D4D4A;
+        font-weight: 400;
+    }
+</style>
+<div class="oc-menu mobile-menu hidden-lg " id="oc-menu-2741">
+<input type="hidden" id="menu-effect-2741" class="menu-effect" value="none" />
+<div class="oc-menu-bar">
+<div class="left"><i class="fa fa-bars"></i> <span>Mobile Menu</span></div>
+<div class="right"><i class="icon-menu" aria-hidden="true"></i></div>
+</div>
+<ul class="ul-top-items">
+<li class="li-top-item">
+<a class="a-top-link a-item" href="/">
+<span>Главная</span>
+</a>
+</li>
+<li class="li-top-item">
+<a class="a-top-link a-item" href="/hudi">
+<span>Худи</span>
+</a>
+</li>
+<li class="li-top-item">
+<a class="a-top-link a-item" href="/futbolki">
+<span>Футболки</span>
+</a>
+</li>
+<li class="li-top-item">
+<a class="a-top-link a-item" href="/delivery">
+<span>Доставка и оплата</span>
+</a>
+</li>
+<li class="li-top-item">
+<a class="a-top-link a-item" href="/index.php?route=information/contact">
+<span>Контакты</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="box box-right">
+<div id="search" class="input-group">
+<div class="btn-group">
+<div class="dropdown-toggle search-button" data-toggle="dropdown"></div>
+<div class="dropdown-menu search-content">
+<button class="button-close"><i class="icon-close"></i></button>
+<div class="container">
+<div class="inner">
+<input type="text" name="search" value="" placeholder="Поиск" class="form-control input-lg" />
+<span class="input-group-btn">
+<button type="button" class="btn btn-default btn-lg"></button>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="box-setting">
+<div class="btn-group">
+<div class="dropdown-toggle setting-button" data-toggle="dropdown"></div>
+<div class="dropdown-menu setting-content">
+<div class="account">
+<button class="btn btn-link btn-link-current">Личный кабинет <i class="icon-arrow-down"></i></button>
+<div class="content" id="top-links">
+<ul class="ul-account list-unstyled">
+<li>
+<a href="/index.php?route=account/simpleregister">Регистрация</a>
+</li>
+<li>
+<a href="/index.php?route=account/login">Авторизация</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="currency"> </div>
+</div>
+</div>
+</div>
+<div id="cart" class="btn-group btn-block">
+<button type="button" data-toggle="dropdown" data-loading-text="Загрузка..." class="btn dropdown-toggle"><span id="cart-total"><span class="txt_number">0</span><span class="txt_items">Корзина</span><span class="total-price"></span></span></button>
+<ul class="dropdown-menu pull-right">
+<li>
+<p class="text-center cart-empty">Ваша корзина пуста!</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</header>
+<div id="account-login" class="container">
+<ul class="breadcrumb">
+<li><a href="https://its-wear.ru"><i class="fa fa-home"></i></a></li>
+<li><a href="https://its-wear.ru/index.php?route=account/account">Аккаунт</a></li>
+<li><a href="https://its-wear.ru/index.php?route=account/login">Авторизация</a></li>
+</ul>
+<div class="row">
+<div id="content" class="col-sm-12">
+<div class="row">
+<div class="col-sm-6">
+<div class="well">
+<h2>Новый покупатель</h2>
+<p><strong>Регистрация</strong></p>
+<p>Создание учётной записи поможет делать покупки быстрее и удобнее. Вы также сможете отслеживать статус своего заказа, пользоваться закладками, видеть свои предыдущие заказы или получить скидку как наш постоянный покупатель.</p>
+<a href="https://its-wear.ru/index.php?route=account/register" class="btn btn-primary">Продолжить</a></div>
+</div>
+<div class="col-sm-6">
+<div class="well">
+<h2>Постоянный покупатель</h2>
+<p><strong>Я совершал здесь покупки ранее и регистрировался</strong></p>
+<form action="https://its-wear.ru/index.php?route=account/login" method="post" enctype="multipart/form-data">
+<div class="form-group">
+<label class="control-label" for="input-email">E-Mail адрес</label>
+<input type="text" name="email" value="" placeholder="E-Mail адрес" id="input-email" class="form-control" />
+</div>
+<div class="form-group">
+<label class="control-label" for="input-password">Пароль</label>
+<input type="password" name="password" value="" placeholder="Пароль" id="input-password" class="form-control" />
+<a href="https://its-wear.ru/index.php?route=account/forgotten">Забыли пароль?</a></div>
+<input type="submit" value="Войти" class="btn btn-primary" />
+<input type="hidden" name="redirect" value="https://its-wear.ru/index.php?route=account/account" />
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="container">
+<div class="footer-top">
+<div class="row">
+<div class="col1 col-md-3 col-sm-6 col-xs-12 col-footer">
+<div class="footer-title"><h5>О нас</h5></div>
+<div class="footer-content">
+<a class="logo-footer" href="/"><img src="/image/catalog/its-wear-white.svg" alt="logo-footer"></a>
+<ul class="footer-contact">
+<li class="address">Юр. адрес: г.Новосибирск, ул.Волочаевская 78а, корп.1, оф.20</li>
+<li class="email">Email: <a href="/cdn-cgi/l/email-protection#e28b8c848da28b9691cf95878390cc9097"><span class="__cf_email__" data-cfemail="cba2a5ada48ba2bfb8e6bcaeaab9e5b9be">[email&#160;protected]</span></a></li>
+</ul>
+</div>
+</div>
+<div class="col2 col-md-3 col-sm-6 col-xs-12 col-footer">
+<div class="footer-title"><h5>Информация</h5></div>
+<div class="footer-content">
+<ul class="list-unstyled text-content">
+<li><a href="/delivery">Оплата и доставка</a></li>
+<li><a href="/privacy-policy">Политика конфиденциальности</a></li>
+<li><a href="/oferta">Публичная оферта</a></li>
+<li><a href="/vozvrat">Условия возврата</a></li>
+<li><a href="/index.php?route=information/contact">Связаться с нами</a></li>
+</ul>
+</div>
+</div>
+<div class="col3 col-md-3 col-sm-6 col-xs-12 col-footer">
+<div class="footer-title"><h5>Каталог</h5></div>
+<div class="footer-content">
+<ul class="list-unstyled text-content">
+<li><a href="/hudi/">Худи</a></li>
+<li><a href="/futbolki/">Футболки</a></li>
+</ul>
+</div>
+</div>
+<div class="col4 col-md-3 col-sm-6 col-xs-12 col-footer">
+<div class="follow">
+<label>Подписывайтесь</label>
+<ul class="link-follow">
+<li class="first"><a class="youtube fa fa-youtube" title="Youtube" href="https://www.youtube.com/channel/UCSF6ewY9LS8GnbphwvnZpUg" target="_blank"><span>YouTube</span></a></li>
+<li><a class="vkontakte fa fa-vkontakte" title="ВКонтакте" href="https://vk.com/its_wear" target="_blank"><span>ВКонтакте</span></a></li>
+<li><a class="instagram fa fa-instagram" title="Instagram" href="https://www.instagram.com/its_wear.ru/" target="_blank"><span>Instagram</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="container-inner">
+<div class="footer-copyright">
+<p>ООО «ИТС М». ОГРН 1195476077851, ИНН 5401996109<br>Разработка сайта - <a href="https://webair-studio.ru/" target="_blank" title="Разработка сайтов">WebAir Studio</a></p>
+</div>
+<div class="payment" title="Принимаем к оплате">
+<img src="/image/payment/visa-pay.svg" class="pay-visa" alt="Visa">
+<img src="/image/payment/mastercard-pay.svg" class="pay-mastercard" alt="Mastercard">
+<img src="/image/payment/mir-pay.svg" class="pay-mir" alt="Мир">
+<img src="/image/payment/tinkoff-pay.svg" class="pay-tinkoff" alt="Tinkoff">
+</div>
+</div>
+</div>
+</div>
+<div id="back-top"><i class="fa fa-angle-double-up"></i></div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+$(document).ready(function(){
+	// hide #back-top first
+	$("#back-top").hide();
+	// fade in #back-top
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > $('body').height()/3) {
+				$('#back-top').fadeIn();
+			} else {
+				$('#back-top').fadeOut();
+			}
+		});
+		// scroll body to 0px on click
+		$('#back-top').click(function () {
+			$('body,html').animate({scrollTop: 0}, 800);
+			return false;
+		});
+	});
+});
+</script>
+ <script type="text/javascript"> (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(57588016, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, ecommerce:"dataLayer" }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/57588016" style="position:absolute; left:-9999px;" alt="" /></div></noscript> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160741337-1"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-160741337-1');</script>
+</div>
+</body></html>

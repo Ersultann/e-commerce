@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<!--[if IE 8 ]><html dir="ltr" lang="ru" class="ie8"><![endif]-->
+<!--[if IE 9 ]><html dir="ltr" lang="ru" class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html dir="ltr" lang="ru">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Публичная оферта</title>
+<base href="https://its-wear.ru/" />
+<script src="catalog/view/javascript/jquery/jquery-2.1.1.min.js"></script>
+<script src="catalog/view/javascript/jquery/jquery-ui.min.js"></script>
+<script src="catalog/view/javascript/jquery/owl-carousel/js/owl.carousel.min.js"></script>
+<link href="catalog/view/javascript/jquery/owl-carousel/css/owl.carousel.min.css" rel="stylesheet" />
+<link href="catalog/view/javascript/jquery/owl-carousel/css/owl.theme.green.min.css" rel="stylesheet" />
+<script src="catalog/view/javascript/opentheme/countdown/jquery.plugin.min.js"></script>
+<script src="catalog/view/javascript/opentheme/countdown/jquery.countdown.min.js"></script>
+<script src="catalog/view/javascript/ocmegamenu/menu.js"></script>
+<link href="catalog/view/theme/tt_t904/stylesheet/ocmegamenu/menu.css" rel="stylesheet" />
+<link href="catalog/view/theme/tt_t904/stylesheet/opentheme/css/animate.css" rel="stylesheet" />
+<link href="catalog/view/javascript/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen" />
+<script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js"></script>
+<link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/pe-icon-7-stroke/css/pe-icon-7-stroke.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/pe-icon-7-stroke/css/helper.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/ionicons/css/ionicons.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/bebas_neue/css/bebas_neue.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/agavantgardecyr/css/agavantgardecyr_book.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/stroke-gap-icons/css/stroke-gap-icons.css" rel="stylesheet" type="text/css" />
+<script src="catalog/view/javascript/opentheme/ocslideshow/jquery.nivo.slider.js"></script>
+<link href="catalog/view/theme/tt_t904/stylesheet/opentheme/ocslideshow/ocslideshow.css" rel="stylesheet" />
+
+<link href="https://fonts.googleapis.com/css?family=Oswald:400,600,700|Roboto:300,400,700&display=swap&subset=cyrillic" rel="stylesheet">
+<link href="catalog/view/theme/tt_t904/stylesheet/stylesheet-2.css" rel="stylesheet" />
+<link href="catalog/view/theme/default/stylesheet/sdek.css" type="text/css" rel="stylesheet" media="screen" />
+<script src="//api-maps.yandex.ru/2.1/?lang=ru_RU&ns=cdekymap"></script>
+<script src="catalog/view/javascript/sdek.js"></script>
+<script src="catalog/view/javascript/common.js"></script>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="apple-mobile-web-app-title" content="its-wear.ru">
+<meta name="application-name" content="its-wear.ru">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+</head>
+<body class="information-information-5 home4">
+<div class="wrapper">
+<header>
+<div class="header-top"></div>
+<div class="header-inner fix">
+<div class="container">
+<div class="container-inner">
+<div class="logo-container">
+<div id="logo">
+<a href="/"><img src="/image/catalog/its-wear.svg" title="Its Wear" alt="Its wear" class="img-responsive" /></a>
+</div>
+</div>
+<div class="box box-left">
+<style>
+    #oc-menu-8677 .oc-menu-bar {
+        background: #FFFFFF;
+        color: #FFFFFF;
+		padding: 0px 0px 0px 0px;
+		position: relative;
+    }
+    #oc-menu-8677.oc-menu-bar {
+        background: #FFFFFF;
+        color: #FFFFFF;
+    }
+    #oc-menu-8677 .ul-top-items .li-top-item {
+        background: #FFFFFF;
+        color: #434343;
+    }
+    #oc-menu-8677 .ul-top-items .li-top-item .a-top-link {
+        padding: 25px 22px 25px 22px;
+        color: #434343;
+        font-size: 12px;
+        line-height: 24px;
+        text-transform: uppercase;
+        font-weight: 500;
+    }
+    #oc-menu-8677 .ul-top-items .li-top-item:hover, #oc-menu-8677 .ul-top-items .li-top-item.active {
+        background: #FFFFFF;
+        color: #9D4D4A;
+    }
+    #oc-menu-8677 .ul-top-items .li-top-item:hover .a-top-link, #oc-menu-8677 .ul-top-items .li-top-item.active .a-top-link{
+        color: #9D4D4A;
+        font-weight: 500;
+    }
+    #oc-menu-8677 .mega-menu-container {
+        width: 1170px;
+        background: #242323;
+        padding: 40px 50px 43px 50px;
+        
+    }
+    #oc-menu-8677 .mega-menu-container .a-mega-second-link,#oc-menu-8677 .mega-menu-container .widget-html-title {
+        color: #FFFFFF;
+    }
+	#oc-menu-8677 .mega-menu-container .a-mega-third-link {
+        color: #FFFFFF;
+    }
+    #oc-menu-8677 .ul-second-items .li-second-items {
+        background: #242323;
+        color: #FFFFFF;
+    }
+    #oc-menu-8677 .ul-second-items .li-second-items:hover, #oc-menu-8677 .ul-second-items .li-second-items.active {
+        background: #242323;
+        color: #9D4D4A;
+    }
+    #oc-menu-8677 .ul-second-items .li-second-items .a-second-link {
+        color: #FFFFFF;
+        font-size: 13px;
+        text-transform: uppercase;
+        font-weight: 500;
+    }
+    #oc-menu-8677 .ul-second-items .li-second-items:hover .a-second-link, #oc-menu-8677 .ul-second-items .li-second-items.active .a-second-link {
+        color: #9D4D4A;
+        font-weight: 500;
+    }
+    #oc-menu-8677 .ul-third-items .li-third-items {
+        background: #242323;
+    }
+    #oc-menu-8677 .ul-third-items .li-third-items:hover, #oc-menu-8677 .ul-third-items .li-third-items.active {
+        background: #242323;
+    }
+    #oc-menu-8677 .ul-third-items .li-third-items .a-third-link {
+        color: #FFFFFF;
+        font-size: 12px;
+        text-transform: capitalize;
+        font-weight: 400;
+    }
+    #oc-menu-8677 .ul-third-items .li-third-items:hover .a-third-link, #oc-menu-8677 .ul-third-items .li-third-items.active .a-third-link {
+        color: #9D4D4A;
+        font-weight: 400;
+    }
+</style>
+<div class="oc-menu horizontal-menu oc-menu-bar visible-lg" id="oc-menu-8677">
+<input type="hidden" id="menu-effect-8677" class="menu-effect" value="none" />
+<ul class="ul-top-items">
+<li class="li-top-item left" style="float: left">
+<a class="a-top-link" href="/">
+<span>Главная</span>
+</a>
+</li>
+<li class="li-top-item left" style="float: left">
+<a class="a-top-link" href="/hudi">
+ <span>Худи</span>
+</a>
+</li>
+<li class="li-top-item left" style="float: left">
+<a class="a-top-link" href="/futbolki">
+<span>Футболки</span>
+</a>
+</li>
+<li class="li-top-item left" style="float: left">
+<a class="a-top-link" href="/delivery">
+<span>Доставка и оплата</span>
+</a>
+</li>
+<li class="li-top-item left" style="float: left">
+<a class="a-top-link" href="/index.php?route=information/contact">
+<span>Контакты</span>
+</a>
+</li>
+</ul>
+</div>
+<style>
+    #oc-menu-7579 .oc-menu-bar {
+        background: #FFFFFF;
+        color: #303030;
+		padding: 0px 0px 0px 0px;
+		position: relative;
+    }
+    #oc-menu-7579.oc-menu-bar {
+        background: #FFFFFF;
+        color: #303030;
+    }
+    #oc-menu-7579 .ul-top-items .li-top-item {
+        background: #242323;
+        color: #FFFFFF;
+    }
+    #oc-menu-7579 .ul-top-items .li-top-item .a-top-link {
+        padding: 10px 20px 10px 20px;
+        color: #FFFFFF;
+        font-size: 12px;
+        line-height: 25px;
+        text-transform: uppercase;
+        font-weight: 400;
+    }
+    #oc-menu-7579 .ul-top-items .li-top-item:hover, #oc-menu-7579 .ul-top-items .li-top-item.active {
+        background: #242323;
+        color: #9D4D4A;
+    }
+    #oc-menu-7579 .ul-top-items .li-top-item:hover .a-top-link, #oc-menu-7579 .ul-top-items .li-top-item.active .a-top-link{
+        color: #9D4D4A;
+        font-weight: 400;
+    }
+    #oc-menu-7579 .mega-menu-container {
+        width: 100%;
+        background: #FFFFFF;
+        padding: 0px 0px 0px 0px;
+        
+    }
+    #oc-menu-7579 .mega-menu-container .a-mega-second-link,#oc-menu-7579 .mega-menu-container .widget-html-title {
+        color: #FFFFFF;
+    }
+	#oc-menu-7579 .mega-menu-container .a-mega-third-link {
+        color: #FFFFFF;
+    }
+    #oc-menu-7579 .ul-second-items .li-second-items {
+        background: #242323;
+        color: #BABABA;
+    }
+    #oc-menu-7579 .ul-second-items .li-second-items:hover, #oc-menu-7579 .ul-second-items .li-second-items.active {
+        background: #242323;
+        color: #9D4D4A;
+    }
+    #oc-menu-7579 .ul-second-items .li-second-items .a-second-link {
+        color: #BABABA;
+        font-size: 13px;
+        text-transform: capitalize;
+        font-weight: 400;
+    }
+    #oc-menu-7579 .ul-second-items .li-second-items:hover .a-second-link, #oc-menu-7579 .ul-second-items .li-second-items.active .a-second-link {
+        color: #9D4D4A;
+        font-weight: 400;
+    }
+    #oc-menu-7579 .ul-third-items .li-third-items {
+        background: #242323;
+    }
+    #oc-menu-7579 .ul-third-items .li-third-items:hover, #oc-menu-7579 .ul-third-items .li-third-items.active {
+        background: #242323;
+    }
+    #oc-menu-7579 .ul-third-items .li-third-items .a-third-link {
+        color: #BABABA;
+        font-size: 12px;
+        text-transform: capitalize;
+        font-weight: 400;
+    }
+    #oc-menu-7579 .ul-third-items .li-third-items:hover .a-third-link, #oc-menu-7579 .ul-third-items .li-third-items.active .a-third-link {
+        color: #9D4D4A;
+        font-weight: 400;
+    }
+</style>
+<div class="oc-menu mobile-menu hidden-lg " id="oc-menu-7579">
+<input type="hidden" id="menu-effect-7579" class="menu-effect" value="none" />
+<div class="oc-menu-bar">
+<div class="left"><i class="fa fa-bars"></i> <span>Mobile Menu</span></div>
+<div class="right"><i class="icon-menu" aria-hidden="true"></i></div>
+</div>
+<ul class="ul-top-items">
+<li class="li-top-item">
+<a class="a-top-link a-item" href="/">
+<span>Главная</span>
+</a>
+</li>
+<li class="li-top-item">
+<a class="a-top-link a-item" href="/hudi">
+<span>Худи</span>
+</a>
+</li>
+<li class="li-top-item">
+<a class="a-top-link a-item" href="/futbolki">
+<span>Футболки</span>
+</a>
+</li>
+<li class="li-top-item">
+<a class="a-top-link a-item" href="/delivery">
+<span>Доставка и оплата</span>
+</a>
+</li>
+<li class="li-top-item">
+<a class="a-top-link a-item" href="/index.php?route=information/contact">
+ <span>Контакты</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="box box-right">
+<div id="search" class="input-group">
+<div class="btn-group">
+<div class="dropdown-toggle search-button" data-toggle="dropdown"></div>
+<div class="dropdown-menu search-content">
+<button class="button-close"><i class="icon-close"></i></button>
+<div class="container">
+<div class="inner">
+<input type="text" name="search" value="" placeholder="Поиск" class="form-control input-lg" />
+<span class="input-group-btn">
+<button type="button" class="btn btn-default btn-lg"></button>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="box-setting">
+<div class="btn-group">
+<div class="dropdown-toggle setting-button" data-toggle="dropdown"></div>
+<div class="dropdown-menu setting-content">
+<div class="account">
+<button class="btn btn-link btn-link-current">Личный кабинет <i class="icon-arrow-down"></i></button>
+<div class="content" id="top-links">
+<ul class="ul-account list-unstyled">
+<li>
+<a href="/index.php?route=account/simpleregister">Регистрация</a>
+</li>
+<li>
+<a href="/index.php?route=account/login">Авторизация</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="currency"> </div>
+</div>
+</div>
+</div>
+<div id="cart" class="btn-group btn-block">
+<button type="button" data-toggle="dropdown" data-loading-text="Загрузка..." class="btn dropdown-toggle"><span id="cart-total"><span class="txt_number">0</span><span class="txt_items">Корзина</span><span class="total-price"></span></span></button>
+<ul class="dropdown-menu pull-right">
+<li>
+<p class="text-center cart-empty">Ваша корзина пуста!</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</header>
+<div id="information-information" class="container">
+<ul class="breadcrumb">
+<li><a href="https://its-wear.ru"><i class="fa fa-home"></i></a></li>
+<li><a href="https://its-wear.ru/oferta">Публичная оферта</a></li>
+</ul>
+<div class="row"><div class="col-order">
+<div id="content" class="col-sm-12">
+<h1>Публичная оферта</h1>
+<p><strong>Публичная оферта</strong> <strong>(предложение) интернет-магазина "its-wear.ru" о продаже товаров</strong></p>
+<p><strong>1.Термины и определения</strong>&nbsp;</p>
+<p>1.1. В настоящей оферте, если контекст не требует иного,
+нижеприведенные термины имеют следующие значения и являются ее составной
+неотъемлемой частью:<br>Продавец — ООО «ИТС М» (Юридический адрес:
+г.Новосибирск, ул.Волочаевская 78а, корп.1, оф.20., ОГРН 1195476077851, ИНН 5401996109, email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="177e797178577e63643a60727665396562">[email&#160;protected]</a>).</p>
+<p>Покупатель — любое физическое лицо, акцептировавшее публичную оферту на условиях настоящей оферты.</p>
+<p>Интернет-магазин — интернет-магазин, расположенный по интернет адресу "its-wear.ru". В рамках
+настоящего договора, понятия Интернет-магазин и Магазин, а так же
+интернет адреса https://its-wear.ru и производные от its-wear.ru
+являются равносильными и трактуются аутентично, по контексту оферты.</p>
+<p>Товар — объект соглашения сторон, перечень наименований ассортимента, представленный в официальном интернет-магазине.</p>
+<p><strong>2.Общие положения</strong>&nbsp;</p>
+<p>2.1. Настоящая публичная Оферта (в дальнейшем — Договор) является
+официальным предложением ООО «ИТС М» в адрес любого физического лица,
+обладающего дееспособностью и необходимым полномочием заключить с ООО
+«ИТС М» договор купли-продажи Товара на условиях, определенных в
+настоящей оферте и содержит все существенные условия договора.<br>2.2.
+Отношения в области защиты прав потребителей регулируются Гражданским
+кодексом Российской Федерации, Законом «О защите прав потребителей» и
+принимаемыми в соответствии с ним иными федеральными законами и
+правовыми актами Российской Федерации.</p>
+<p><strong>3.Регистрация на сайте</strong><br>3.1. Оформить Заказ в
+Интернет-магазине могут только зарегистрированные Покупатели, при этом
+Покупатель вправе зарегистрироваться на сайте только 1(один) раз, т.е.
+может иметь только один Личный кабинет.<br>3.2. Продавец не несет ответственности за точность и правильность информации,предоставляемой Покупателем при регистрации.<br>3.3.
+Покупатель, зарегистрировавшийся в Интернет-магазине, получает
+индивидуальную идентификацию путем предоставления логина и пароля.
+Индивидуальная идентификация Покупателя позволяет избежать
+несанкционированных действий третьих лиц от имени Покупателя и открывает
+доступ к дополнительным сервисам. Передача Покупателем логина и пароля
+третьим лицам запрещена.<br>3.4. Покупатель самостоятельно несёт
+ответственность за все возможные негативные последствия, в случае
+передачи логина и пароля третьим лицам.</p>
+<p><strong>4. Предмет Договора и цена Товара</strong>&nbsp;</p>
+<p>4.1. Продавец передает, а Покупатель принимает и оплачивает товары на условиях настоящего Договора.<br>4.2.
+Право собственности на Заказанные Товары переходит к Покупателю с
+момента фактической передачи Товара Покупателю и оплаты последним полной
+стоимости Товара. Риск его случайной гибели или повреждения Товара
+переходит к Покупателю с момента фактической передачи Товара Покупателю.<br>4.3.
+Цены на Товар определяются Продавцом в одностороннем бесспорном порядке
+и указываются на страницах интернет-магазина, расположенного по
+интернет-адресу: https://its-wear.ru.<br>4.4. Цена товара указывается в рублях Российской Федерации и включает в себя налог на добавленную стоимость.</p>
+<p><strong>5. Момент заключения договора</strong>&nbsp;</p>
+<p>5.1. Текст данного Договора является публичной офертой (в
+соответствии со статьёй 435 и частью 2 статьи 437 Гражданского кодекса
+Российской Федерации).<br>5.2. Акцепт настоящей оферты (договора) —
+оформление Покупателем заказа на Товар в соответствии с условиями
+настоящей оферты. 5.3. Акцептируя настоящую оферту, Покупатель выражает
+согласие в том, что:<br>— регистрационные данные (в том числе персональные данные) указаны им добровольно<br>—
+регистрационные данные (в том числе персональные данные) передаются в
+электронной форме по открытым каналам связи сети «Интернет»<br>—
+регистрационные данные (в том числе персональные данные) переданы
+Продавцу для реализации целей, указанных в настоящей оферте и могут быть
+переданы третьим лицам, для реализации целей, указанных в настоящей
+оферте<br>— регистрационные данные (в том числе персональные данные)
+могут быть использованы Продавцом в целях продвижения товаров и услуг,
+путем осуществления прямых контактов с Покупателем с помощью каналов
+связи<br>— в целях дополнительной защиты от мошеннических действий
+указанные Покупателем регистрационные данные (в том числе персональные
+данные) могут быть переданы банку, осуществляющему транзакции по оплате
+оформленных на its-wear.ru заказов<br>— данное Покупателем согласие
+на обработку его регистрационных данных (в том числе персональных
+данных) является бессрочным и может быть отозвано Покупателем или его
+законным представителем, подачей письменного заявления, переданного
+Продавцу на пункте самовывоза<br>5.4. Договор,
+заключаемый на основании акцептирования Покупателем настоящей оферты
+является договором присоединения, к которому Покупатель присоединяется
+без каких-либо исключений и/или оговорок.<br>5.5. Факт оформления заказа
+Покупателем является безоговорочным фактом принятия Покупателем условий
+данного Договора, в том числе согласием Покупателя на рассылку ему
+Продавцом смс-сообщений о статусе его заказа и опросов для улучшения
+качества обслуживания Покупателей. Покупатель, приобретший товар в
+Интернет-магазине Продавца (оформивший заказ товара), рассматривается
+как лицо, вступившее с продавцом в отношения на условиях настоящего
+Договора.</p>
+<p><strong>6. Права и обязанности сторон</strong><em>&nbsp;</em></p>
+<p><em>6.1. Продавец обязуется:</em><br>6.1.1. С момента заключения
+настоящего Договора обеспечить в полной мере все обязательства перед
+Покупателем в соответствии с условиями настоящего договора и
+действующего законодательства. Продавец оставляет за собой право
+невыполнения обязательств по Договору в случае возникновения
+обстоятельств непреодолимой силы, указанных в п.6 настоящего Договора.<br>6.1.2.
+Обрабатывать персональные данные Покупателя в порядке, установленном
+действующим законодательством и «Политикой ООО «ИТС М» в отношении
+организации обработки и обеспечения безопасности персональных данных.<br>6.1.3.
+В случае достижения цели обработки персональных данных Продавец
+обязуется прекратить обработку персональных данных или обеспечить ее
+прекращение (если обработка персональных данных осуществляется другим
+лицом, действующим по поручению Продавца) и уничтожить персональные
+данные или обеспечить их уничтожение (если обработка персональных данных
+осуществляется другим лицом, действующим по поручению Продавца) в срок,
+не превышающий тридцати дней с даты достижения цели обработки
+персональных данных, если иное не предусмотрено договором, стороной
+которого, выгодоприобретателем или поручителем по которому является
+Покупатель, иным соглашением между Продавцом и Покупателем.<br>6.1.4. В
+случае отзыва Покупателем согласия на обработку его персональных данных
+Продавец обязуется прекратить их обработку или обеспечить прекращение
+такой обработки (если обработка персональных данных осуществляется
+другим лицом, действующим по поручению Продавца) и в случае, если
+сохранение персональных данных более не требуется для целей обработки
+персональных данных, уничтожить персональные данные или обеспечить их
+уничтожение (если обработка персональных данных осуществляется другим
+лицом, действующим по поручению Продавца) в срок, не превышающий
+тридцати дней с даты поступления указанного отзыва, если иное не
+предусмотрено договором, стороной которого, выгодоприобретателем или
+поручителем по которому является Покупатель.<br>Отправлять электронную
+форму кассового чека на адрес электронной почты Клиента, который был
+указан в Личном Кабинете в разделе «Мои данные» на сайте its-wear.ru.</p>
+<p><em>6.2. Продавец имеет право:</em><br>6.2.1. Изменять настоящий
+Договор, Цены на Товар и Тарифы на сопутствующие услуги, способы и сроки
+оплаты и доставки товара в одностороннем порядке, помещая их на
+страницах интернет-магазина, расположенного по интернет-адресу:
+https://its-wear.ru. Все изменения вступают в силу немедленно после
+публикации, и считаются доведенными до сведения Покупателя с момента
+такой публикации.<br>6.2.2. Осуществлять записи телефонных переговоров с
+Покупателем. В соответствии с п. 4 ст. 16 Федерального закона «Об
+информации, информационных технологиях и о защите информации» Продавец
+обязуется: предотвращать попытки несанкционированного доступа к
+информации и/или передачу ее лицам, не имеющим непосредственного
+отношения к исполнению Заказов, своевременно обнаруживать и пресекать
+такие факты.<br>6.2.3. Без согласования с Покупателем, передавать свои права и обязанности по исполнению Договора третьим лицам.<br>6.2.4.
+Перед поставкой заказанного Клиентом товара Продавец имеет право
+потребовать от Клиента 100% предоплаты заказанного товара. Продавец
+имеет право отказать Клиенту в доставке товара при отсутствии такой
+оплаты. Продавец имеет право потребовать от Клиента 100% предоплаты
+заказанного товара в следующих случаях:<br>— в случае нарушения одного из пунктов оферты 3.1; 6.3.5; 7.5; 7.6<br>— в случае нарушения правил продаж<br>6.2.5.
+Продавец вправе не производить доставку Товара Клиенту курьером, в том
+числе без 100% предоплаты заказанного Товара, по адресу, указанному при
+оформлении Клиентом заказа, и передать Товар в согласованном с Клиентом
+фирменном пункте самовывоза.<br>6.2.6. Продавец вправе произвести ограничения одновременно доставляемого Клиенту Товара.<br>6.2.7. Использовать технологию «cookies». «Cookies» не содержат конфиденциальную информацию и не передаются третьим лицам.<br>6.2.8.
+Получать информацию об ip — адресе посетителя Сайта its-wear.ru. Данная
+информация не используется для установления личности посетителя и не
+подлежит передаче третьим лицам.<br>6.2.9. Продавец вправе направлять
+Покупателю сообщения рекламно-информационного характера посредством
+e-mail и sms-рассылок с информацией о скидках, акциях, новых
+поступлениях и т.п. Частота рассылок определяется Продавцом
+самостоятельно, в одностороннем порядке.<br>6.2.10. Продавец вправе в
+одностороннем порядке отменить Заказ Покупателя в случае нарушения
+Покупателем п.6.3.3.1. настоящей Оферты.<br>6.2.11. Продавец вправе произвести ограничения по сумме заказываемых товаров на один день доставки.<br>6.2.12.
+Продавец вправе изменять условия Акций, размещённых на сайте
+интернет-магазина its-wear.ru, в одностороннем порядке без согласия
+Покупателя, путём размещения таких изменений на сайте интернет-магазина its-wear.ru.<br>6.2.13. При доставке предоплаченного заказа, курьер
+или сотрудник пункта самовывоза может попросить Клиента предъявить
+документ удостоверяющий личность. Если получать заказ будет не владелец
+Личного кабинета, ФИО получателя необходимо указать в специально окне
+при оформлении заказа. В случае, если данные владельца Личного Кабинета
+не совпадают с данными в документе удостоверяющим личность,
+интернет-магазин в праве отказать Клиенту в выдаче товара.<br>6.2.14. Размещая отзыв на сайте, Вы даёте согласие на использование данного отзыва на сторонних ресурсах.</p>
+<p><em>6.3. Покупатель обязуется:</em><br>6.3.1. До момента заключения
+Договора ознакомиться с содержанием и условиями Договора, ценами на
+Товар, предлагаемыми Продавцом в интернет-магазине.<br>6.3.2. Во
+исполнение Продавцом своих обязательств перед Покупателем последний
+должен сообщить все необходимые данные, однозначно идентифицирующие его
+как покупателя, и достаточные для доставки Покупателю оплаченного им
+Товара.<br>6.3.3. Оплатить заказанный Товар и его доставку на условиях настоящего договора.<br>6.3.4.
+Если Покупатель при оформлении Заказа указывает безналичный способ
+оплаты Заказа (банковской картой либо системой электронных платежей), то
+Покупатель обязан оплатить свой Заказ в течение 24 часов с момента
+оформления.<br>Соблюдать Правила продажи.<br>6.3.5. Не использовать товар, заказанный на интернет-сайте в предпринимательских целях.</p>
+<p><em>6.4.Покупатель имеет право:</em><br>6.4.1. Покупатель вправе отказаться от получения e-mail и sms-рассылок.</p>
+<p><strong>7. Доставка товара&nbsp;</strong></p>
+<p>7.1. Доставка Товара Покупателю осуществляется в сроки, согласованные
+Сторонами при подтверждении заказа сотрудником Продавца и условиях
+изложенных в Правилах продажи. Если покупатель не получает заказ в
+согласованный срок, продавец вправе аннулировать заказ без
+дополнительного информирования Клиента. В случае если заказ предоплачен
+денежные средства возвращаются покупателю в установленный
+законодательством срок.<br>7.2. При курьерской доставке Товара Клиент в
+реестре Доставки ставит свою подпись напротив тех позиций Товара,
+которые Клиент приобрел. Данная подпись служит подтверждением того, что
+Клиент не имеет претензий к комплектации заказа, к количеству и внешнему
+виду Товара.<br>7.3. После получения Заказа претензии к количеству, комплектности и виду Товара не принимаются.<br>7.4.
+Курьерская доставка может быть осуществлена по указанному в Личном
+Кабинете адресу. Передача заказа Покупателю и расчет с Курьером возможен
+только в зданиях.<br>7.5. В случае, если курьерская доставка
+осуществляется в публичном месте (вокзал, парк, магазин, ресторан,
+торговые центры и т.п.), передача заказа и расчет с Курьером возможен
+только в офисной части, в ином случае, передача заказа может быть
+осуществлена только после внесения Клиентом 100% предоплаты.<br>7.6. Проверка и примерка заказанного Товара, как и все взаиморасчеты с Курьером производятся не более, чем за 20 минут. </p>
+<p><strong>8. Отзыв оферты</strong>&nbsp;</p>
+<p>8.1. Отзыв оферты (Договора) может быть осуществлён Продавцом в любое
+время, но это не является основанием для отказа от обязательств
+Продавца по уже заключённым договорам. Продавец обязуется разместить
+уведомление об отзыве оферты, в своем интернет-магазине, с указанием
+точного времени (4-й часовой пояс (Москва)) отзыва оферты, не менее чем
+за 12 часов до факта наступления события отзыва (приостановки) действия
+Оферты.</p>
+<p><strong>9. Форс-мажор</strong>&nbsp;</p>
+<p>9.1. Любая из Сторон освобождается от ответственности за полное или
+частичное неисполнение своих обязательств по настоящему Договору, если
+это неисполнение было вызвано обстоятельствами непреодолимой силы,
+возникшими после подписания настоящего Договора. «Обстоятельства
+Непреодолимой Силы», означают чрезвычайные события или обстоятельства,
+которые такая Сторона не могла предвидеть или предотвратить доступными
+ей средствами. Такие чрезвычайные события или обстоятельства включают в
+себя, в частности: забастовки, наводнения, пожары, землетрясения и иные
+стихийные бедствия, войны, военные действия, действия российских или
+иностранных государственных органов, а также любые иные обстоятельства,
+выходящие за пределы разумного контроля любой из Сторон. Правообладателем интернет-магазина является лицо разработавшее интернет-магазин и
+предоставляет его в пользование Продавцу. Правообладатель интернет-магазина не несет
+ответственности перед Покупателем и не принимает оплату Товара от Покупателя. Изменения
+действующего законодательства или нормативных актов, прямо или косвенно
+влияющие на какую-либо из Сторон, не рассматриваются как Обстоятельства
+непреодолимой силы, однако, в случае внесения таких изменений, которые
+не позволяют любой из Сторон исполнить какие-либо из ее обязательств по
+настоящему Договору, Стороны обязаны незамедлительно принять решение
+относительно порядка работы по устранению этой проблемы с тем, чтобы
+обеспечить Сторонам продолжение исполнения настоящего Договора.</p>
+<p><strong>10. Прочие условия&nbsp;</strong></p>
+<p>10.1. Все споры, связанные с неисполнением, или ненадлежащим
+исполнением своих обязательств по настоящему договору стороны будут
+стараться решить в ходе переговоров.<br>10.2. В случае не достижения
+согласия в ходе переговоров, споры будут разрешаться в судебном порядке в
+соответствии с действующим законодательством Российской Федерации.</p><p><br></p>
+</div>
+</div></div>
+</div>
+<footer>
+<div class="container">
+<div class="footer-top">
+<div class="row">
+<div class="col1 col-md-3 col-sm-6 col-xs-12 col-footer">
+<div class="footer-title"><h5>О нас</h5></div>
+<div class="footer-content">
+<a class="logo-footer" href="/"><img src="/image/catalog/its-wear-white.svg" alt="logo-footer"></a>
+<ul class="footer-contact">
+<li class="address">Юр. адрес: г.Новосибирск, ул.Волочаевская 78а, корп.1, оф.20</li>
+<li class="email">Email: <a href="/cdn-cgi/l/email-protection#0861666e6748617c7b257f6d697a267a7d"><span class="__cf_email__" data-cfemail="a2cbccc4cde2cbd6d18fd5c7c3d08cd0d7">[email&#160;protected]</span></a></li>
+</ul>
+</div>
+</div>
+<div class="col2 col-md-3 col-sm-6 col-xs-12 col-footer">
+<div class="footer-title"><h5>Информация</h5></div>
+<div class="footer-content">
+<ul class="list-unstyled text-content">
+<li><a href="/delivery">Оплата и доставка</a></li>
+<li><a href="/privacy-policy">Политика конфиденциальности</a></li>
+<li><a href="/oferta">Публичная оферта</a></li>
+<li><a href="/vozvrat">Условия возврата</a></li>
+<li><a href="/index.php?route=information/contact">Связаться с нами</a></li>
+</ul>
+</div>
+</div>
+<div class="col3 col-md-3 col-sm-6 col-xs-12 col-footer">
+<div class="footer-title"><h5>Каталог</h5></div>
+<div class="footer-content">
+<ul class="list-unstyled text-content">
+<li><a href="/hudi/">Худи</a></li>
+<li><a href="/futbolki/">Футболки</a></li>
+</ul>
+</div>
+</div>
+<div class="col4 col-md-3 col-sm-6 col-xs-12 col-footer">
+<div class="follow">
+<label>Подписывайтесь</label>
+<ul class="link-follow">
+<li class="first"><a class="youtube fa fa-youtube" title="Youtube" href="https://www.youtube.com/channel/UCSF6ewY9LS8GnbphwvnZpUg" target="_blank"><span>YouTube</span></a></li>
+<li><a class="vkontakte fa fa-vkontakte" title="ВКонтакте" href="https://vk.com/its_wear" target="_blank"><span>ВКонтакте</span></a></li>
+<li><a class="instagram fa fa-instagram" title="Instagram" href="https://www.instagram.com/its_wear.ru/" target="_blank"><span>Instagram</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="container-inner">
+<div class="footer-copyright">
+<p>ООО «ИТС М». ОГРН 1195476077851, ИНН 5401996109<br>Разработка сайта - <a href="https://webair-studio.ru/" target="_blank" title="Разработка сайтов">WebAir Studio</a></p>
+</div>
+<div class="payment" title="Принимаем к оплате">
+<img src="/image/payment/visa-pay.svg" class="pay-visa" alt="Visa">
+<img src="/image/payment/mastercard-pay.svg" class="pay-mastercard" alt="Mastercard">
+<img src="/image/payment/mir-pay.svg" class="pay-mir" alt="Мир">
+<img src="/image/payment/tinkoff-pay.svg" class="pay-tinkoff" alt="Tinkoff">
+</div>
+</div>
+</div>
+</div>
+<div id="back-top"><i class="fa fa-angle-double-up"></i></div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+$(document).ready(function(){
+	// hide #back-top first
+	$("#back-top").hide();
+	// fade in #back-top
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > $('body').height()/3) {
+				$('#back-top').fadeIn();
+			} else {
+				$('#back-top').fadeOut();
+			}
+		});
+		// scroll body to 0px on click
+		$('#back-top').click(function () {
+			$('body,html').animate({scrollTop: 0}, 800);
+			return false;
+		});
+	});
+});
+</script>
+ <script type="text/javascript"> (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(57588016, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, ecommerce:"dataLayer" }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/57588016" style="position:absolute; left:-9999px;" alt="" /></div></noscript> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160741337-1"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-160741337-1');</script>
+</div>
+</body></html>
